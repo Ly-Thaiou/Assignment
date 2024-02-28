@@ -1,0 +1,14 @@
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\Thai Ou\OneDrive\Desktop\Assignment\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll
